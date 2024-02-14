@@ -17,6 +17,7 @@ body{
 .section-title{
     font-size: 35px;
     font-weight: bold;
+    text-align: center;
 }
 .section-description{
     font-size: 18px;
@@ -96,4 +97,7 @@ main{
 }
 .about-info{
     text-align: center;
+}
+#what-i-do-description{
+    padding: 30px 150px;
 }
